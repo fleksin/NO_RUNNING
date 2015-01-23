@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="120" height="23" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="ground" tilewidth="32" tileheight="32">
+  <image source="ground.png" width="420" height="316"/>
+  <tile id="18">
+   <properties>
+    <property name="Avalible" value="false"/>
+   </properties>
+  </tile>
+  <tile id="22">
+   <properties>
+    <property name="Avalible" value="false"/>
+   </properties>
+  </tile>
+  <tile id="31">
+   <properties>
+    <property name="Avalible" value="false"/>
+   </properties>
+  </tile>
+  <tile id="35">
+   <properties>
+    <property name="Avalible" value="false"/>
+   </properties>
+  </tile>
+  <tile id="66">
+   <properties>
+    <property name="Avalible" value="true"/>
+   </properties>
+  </tile>
+  <tile id="70">
+   <properties>
+    <property name="Avalible" value="false"/>
+   </properties>
+  </tile>
+  <tile id="75">
+   <properties>
+    <property name="Avalible" value="false"/>
+   </properties>
+  </tile>
+ </tileset>
+ <layer name="backGround" width="120" height="23">
+  <data encoding="base64" compression="zlib">
+   eJzt0TENgDAAAMF66MDKgBMG/DtCQxMC4XPDKbg5xpgAwKt20q5FJ59a/fL7L37b/Lb5bfPb5rfNb5vfNr9tftv8tq1+bQAAPOog7QYmsPbY
+  </data>
+ </layer>
+</map>

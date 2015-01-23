@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="120" height="23" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="ground" tilewidth="32" tileheight="32">
+  <image source="C:/Users/Metalx/Desktop/Cocos2d-x游戏实例《RunRunRunV1.0》源码+资源/RunRunRun/Resources/map/ground.png" width="420" height="316"/>
+ </tileset>
+ <layer name="块层 1" width="120" height="23">
+  <data encoding="base64" compression="zlib">
+   eJztwzENACAQBLDz8AsjC0rw7wkTwPBpk1aSUlW/nra+VVVVVVX1waGq6tXL1g+wRvUo
+  </data>
+ </layer>
+</map>
