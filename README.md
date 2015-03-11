@@ -7,3 +7,5 @@ This is a unbuild version of the project.
 
 To build on windows, go to the file "proj.win32" and open "NRproject.sln" with visual studio and build.
 
+All source codes are in document "Classes"
+
